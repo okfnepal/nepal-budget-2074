@@ -3,7 +3,7 @@ https://okfnepal.github.io/nepal-budget-2074/
 
 Opening data from Nepal Budget 2075-75 from pdf available in Ministry of Finance to machine readable open formats like csv. 
 
-Source of data: http://mof.gov.np/uploads/document/file/Budget_Speech_207475_20170530011441.pdf
+__Source of data:__ http://mof.gov.np/uploads/document/file/Budget_Speech_207475_20170530011441.pdf
 
 __Tools used:__ Tabula http://tabula.technology/
 
