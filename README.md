@@ -6,12 +6,9 @@ Opening data from Nepal Budget 2075-75 from pdf available in Ministry of Finance
 __Source of data: Ministry of Finace, Nepal__
 
 <li> Budget Speech: http://mof.gov.np/uploads/document/file/Budget_Speech_207475_20170530011441.pdf
-
-Red Book Central Government: http://mof.gov.np/uploads/document/file/Red%20Book%20Central%202074-75_20170530083940.pdf
-
-Red Book Local Government: http://mof.gov.np/uploads/document/file/Red%20Book%20Local%202074-75_20170530083721.pdf
-
-More Data: http://mof.gov.np/en/content/mof-link-pages-10.html
+ <li>Red Book Central Government: http://mof.gov.np/uploads/document/file/Red%20Book%20Central%202074-75_20170530083940.pdf
+<li> Red Book Local Government: http://mof.gov.np/uploads/document/file/Red%20Book%20Local%202074-75_20170530083721.pdf
+<li> More Data: http://mof.gov.np/en/content/mof-link-pages-10.html
 
 __Tools used:__ Tabula http://tabula.technology/
 
