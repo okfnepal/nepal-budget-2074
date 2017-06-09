@@ -17,5 +17,6 @@ __Tutorial:__ https://schoolofdata.org/extracting-data-from-pdfs/
 __Headings:__
 
 1. <a href = https://github.com/okfnepal/nepal-budget-2074/blob/master/Budget%20Allocation%20by%20SDGs.csv>Budget allocation by SDGs (csv)</a>
+2. <a href = https://github.com/okfnepal/nepal-budget-2074/blob/master/Nepal_Gov_Revenue.csv>Revenue of Nepal Government(csv)</a>
 
 
